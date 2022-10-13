@@ -1,0 +1,52 @@
+body {background-color:black;}
+
+div {
+        background: url(Images/Records.jpg);
+        padding-block: 5px;
+        background-repeat: no-repeat;
+      }
+       
+h1{ 
+    font-size: 100px;
+    font-family: 'Segoe UI', sans-serif;
+    font: bold;
+    color: white;
+    text-align: center;
+}
+h2{ 
+    font-size: 25px;
+    background-color: #ef8354;
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+h3{ 
+    font-size: 25px;
+    background-color: #0e7c7b;
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+h4{ 
+    font-size: 25px;
+    background-color: #9c538b;
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: 16px; 
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    color: white;
+}
+b{
+    font-size: 20px; 
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    color: white;
+}
+footer{
+    font-size:16px;
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
